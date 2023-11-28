@@ -81,7 +81,7 @@
   },
   "dependencies": {
     "@material-ui/core": "^3.9.3",
-    "@material-ui/icons": "^2.0.0",
+    "@material-ui/icons": "^4.0.0",
     "@types/react": "^16.8.14",
     "@types/react-dom": "^16.8.4",
     "@types/react-redux": "^7.0.8",
@@ -92,7 +92,7 @@
     "commander": "^2.17.1",
     "d3": "^5.9.2",
     "enzyme": "^3.4.1",
-    "electron-reload": "^1.4.0",
+    "electron-reload": "^1.5.0",
     "konva": "^2.1.7",
     "localforage": "^1.7.2",
     "lodash.throttle": "^4.1.1",
